@@ -24,3 +24,9 @@
 <img align="left" alt="Mike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" (https://www.linkedin.com/in/mike-s-482b991b3/)/>
 
 [linkedin](https://www.linkedin.com/in/mike-s-482b991b3/)
+
+
+[<img align="left" alt="Mike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/mike-s-482b991b3
