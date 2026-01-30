@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/ticket-lifecycle)
   -->
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure</b> <img src="https://skillicons.dev/icons?i=azure">
   - [Part 1. Configuring On-premises Active Directory within Azure VMs](https://github.com/MikeSays-1/azure-config-and-ad-installation)
   - [Part 2. Active Directory User & Client Management](https://github.com/MikeSays-1/Active-Directory-User-Client-Management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeSays-1/azure-network-protocols)
