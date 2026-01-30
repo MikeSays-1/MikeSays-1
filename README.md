@@ -1,12 +1,12 @@
-<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
 <!--
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/)
+  - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/)
   -->
 <img src="https://skillicons.dev/icons?i=azure,windows"> 
 - <b>Microsoft Azure & Active Directory</b>
