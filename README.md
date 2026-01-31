@@ -15,6 +15,10 @@
   - [Part 2. Active Directory User & Client Management](https://github.com/MikeSays-1/Active-Directory-User-Client-Management)
   - [Part 3. Group Policy & Client Management](https://github.com/MikeSays-1/Group-Policy-and-Account-Management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeSays-1/azure-network-protocols)
+    
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel" />
+- <b>Next.js (React), Supabase (PostgreSQL, Auth), Tailwind CSS, Vercel</b>
+  - [HostDesk - Centralized Staff and Restaruant Managment](https://github.com/MikeSays-1/HostDesk-App)
 
 
 <h2>Connect with me:</h2>
