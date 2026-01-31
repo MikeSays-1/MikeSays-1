@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional & Hobby Developer</a></h1>
+<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional</a> & Hobby Developer</h1>
 
 <h2>Information Technology Projects:</h2>
 
