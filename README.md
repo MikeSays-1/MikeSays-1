@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional</a></h1>
+<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional & Hobby Developer</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -20,7 +20,7 @@
 - <b>Next.js (React), Supabase (PostgreSQL, Auth), Tailwind CSS, Vercel</b>
 
 
-  - [HostDesk - Centralized Staff and Restaruant Managment](https://github.com/MikeSays-1/HostDesk-App)
+  - [HostDesk - Centralized Staff and Restaruant Managment App](https://github.com/MikeSays-1/HostDesk-App)
 
 
 <h2>Connect with me:</h2>
