@@ -18,6 +18,8 @@
     
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel" />
 - <b>Next.js (React), Supabase (PostgreSQL, Auth), Tailwind CSS, Vercel</b>
+
+
   - [HostDesk - Centralized Staff and Restaruant Managment](https://github.com/MikeSays-1/HostDesk-App)
 
 
