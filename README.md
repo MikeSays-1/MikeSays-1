@@ -15,7 +15,7 @@
 
 <p align="left"><img src="https://skillicons.dev/icons?i=azure,windows,php,mysql" />&nbsp;&nbsp;<img src="images/osticket-icon-dark.png" width="48"></p>
 - <b>osTicket (Help Desk Ticketing System)</b>
-- <b>osTicket (Help Desk Ticketing System)</b>
+
 
   - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/)
   - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/)
