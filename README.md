@@ -11,8 +11,7 @@
   - [Part 2. Active Directory User & Client Management](https://github.com/MikeSays-1/Active-Directory-User-Client-Management)
   - [Part 3. Group Policy & Client Management](https://github.com/MikeSays-1/Group-Policy-and-Account-Management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeSays-1/azure-network-protocols)
-  - 
-<br / >
+<br />
 
 <p align="left"><img src="https://skillicons.dev/icons?i=azure,windows,php,mysql" />&nbsp;&nbsp;<img src="images/osticket-icon-dark.png" width="48"></p>  
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -20,7 +19,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/)
   
-<br / >
+<br />
     
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel" />
 - <b>Next.js (React), Supabase (PostgreSQL, Auth), Tailwind CSS, Vercel</b>
