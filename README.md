@@ -13,8 +13,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MikeSays-1/azure-network-protocols)
 <br />
 
-<p align="left"><img src="https://skillicons.dev/icons?i=azure,windows,php,mysql" />&nbsp;&nbsp;<img src="images/osticket-icon-dark.png" width="48"></p>  
+<p align="left"><img src="https://skillicons.dev/icons?i=azure,windows,php,mysql" />&nbsp;&nbsp;<img src="images/osticket-icon-dark.png" width="48"></p>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
+
   - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/)
   - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/) 
