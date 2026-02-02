@@ -18,8 +18,8 @@
 
 
   - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/)
-  - [osTicket: Post-Installation Configuration](https://github.com/MikeSays-1/)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/MikeSays-1/) 
+  - [osTicket: Configurations](https://github.com/MikeSays-1/)
+  - [osTicket: Ticket Lifecycle Simulation](https://github.com/MikeSays-1/) 
 <br />
     
 <img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel" />
