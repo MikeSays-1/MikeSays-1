@@ -17,7 +17,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
 
-  - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/)
+  - [osTicket: Prerequisites and Installation](https://github.com/MikeSays-1/osTicket-Install/)
   - [osTicket: Configurations](https://github.com/MikeSays-1/)
   - [osTicket: Ticket Lifecycle Simulation](https://github.com/MikeSays-1/) 
 <br />
