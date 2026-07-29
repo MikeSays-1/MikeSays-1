@@ -5,8 +5,9 @@
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-entra-id.png" width="48px">
+- <b>Microsoft Entra ID & Powershell</b>
 
--  [Microsoft Entra ID - Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
+  -  [Microsoft Entra ID - Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
 
 <h2>Information Technology Projects:</h2>
 
