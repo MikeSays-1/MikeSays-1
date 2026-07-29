@@ -1,8 +1,14 @@
-<h1>Hi, I'm Mike, an <a href="https://www.linkedin.com/in/mike-s-482b991b3">IT Professional</a> & Hobby Developer</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/mike-s-482b991b3">Mike</a>> — IT Professional | Identity & Access Management (IAM) | Microsoft Entra ID</h1>
+
+
+
+<h2>Identity & Access Management (IAM) Projects:</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/microsoft-entra-id.png">
+
+-  [Microsoft Entra ID - Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
 
 <h2>Information Technology Projects:</h2>
-
-
 
 <img src="https://skillicons.dev/icons?i=azure,windows"> 
 - <b>Microsoft Azure & Active Directory</b>
