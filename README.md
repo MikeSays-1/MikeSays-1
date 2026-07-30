@@ -8,7 +8,8 @@
 - <b>Microsoft Entra ID & Powershell</b>
 
   - [Microsoft Entra ID - Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
-  - [Microsoft Entra ID - Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab) 
+  - [Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
+  - [Role Mining & RBAC Implementation with Microsoft Entra ID](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC) 
 
 <h2>Information Technology Projects:</h2>
 
