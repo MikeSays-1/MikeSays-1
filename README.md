@@ -1,5 +1,6 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/mike-s-482b991b3">Mike</a></h1>
-<br /><h2> IT Professional | Identity & Access Management (IAM) | Microsoft Entra ID</h2>
+<br />
+<h2> IT Professional | Identity & Access Management (IAM) | Microsoft Entra ID </h2>
 
 
 
