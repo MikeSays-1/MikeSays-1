@@ -10,7 +10,7 @@
 - [Microsoft Entra ID - Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
 - [Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
 - [Role Mining & RBAC Implementation with Microsoft Entra ID](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
-- [Role Mining & RBAC Implementation with Microsoft Entra ID](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
+- [Microsoft Entra ID - Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
 <br />  
 
 <h2>Information Technology Projects:</h2>
