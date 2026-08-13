@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/mike-s-482b991b3">Mike</a> <br /> IT Professional | Identity & Access Management (IAM) | Microsoft Entra ID </h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/mike-s-482b991b3">Mike</a> <br /> IT Professional | Identity & Access Management (IAM) | Entra ID & Okta </h1>
 
 
 
@@ -13,6 +13,15 @@
 - [Microsoft Entra ID - Privileged Access Management (PIM/JIT)](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
 - [Microsoft Entra ID - JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM)
 <br />  
+
+<h2>Information Technology Projects:</h2>
+
+<img src="https://skillicons.dev/icons?i=azure,windows"> 
+- <b>Okta Identity & Access Management</b>
+
+  - [Part 1.Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
+
+<br />
 
 <h2>Information Technology Projects:</h2>
 
