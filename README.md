@@ -14,9 +14,7 @@
 - [Microsoft Entra ID - JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM)
 <br />  
 
-<h2>Information Technology Projects:</h2>
-
-<img src="https://skillicons.dev/icons?i=azure,windows"> 
+<img src="https://skillicons.dev/icons?i=okta,windows"> 
 - <b>Okta Identity & Access Management</b>
 
   - [Part 1.Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
