@@ -9,7 +9,7 @@
 
   - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
 
-  - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
+rt 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
   - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Role Mining & RBAC Implementation](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
   - [Part 4. Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
