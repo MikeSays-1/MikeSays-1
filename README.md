@@ -10,7 +10,7 @@
   - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
   - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Role Mining & RBAC Implementation with Microsoft Entra ID](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
-  - [Part 4. Privileged Access Management (PIM/JIT)](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
+  - [Part 4. Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
   - [Part 5. Privileged Access Management with JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
 
 <br />  
