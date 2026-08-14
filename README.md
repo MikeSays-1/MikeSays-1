@@ -19,7 +19,7 @@
 - <b>Okta Identity & Access Management</b>
 
   - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
-  - [Part 2. Okta OIDC](https://github.com/MikeSays-1/okta-oidc)
+  - [Part 2. Okta OIDC Application Integration and Authentication Policy](https://github.com/MikeSays-1/okta-oidc)
 
 <br />
 
