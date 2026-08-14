@@ -11,7 +11,7 @@
  - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
  - [Part 3. Role Mining & RBAC Implementation with Microsoft Entra ID](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
  - [Part 4. Privileged Access Management (PIM/JIT)](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
- - [Part 5. JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM)
+ - [Part 5. JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
 
 <br />  
 
