@@ -6,7 +6,6 @@
 
 <img src="https://adoption.microsoft.com/wp-content/uploads/2025/05/icon-microsoft-entra.png" width="35px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
-- <b>Microsoft Entra ID & Powershell</b>
 - <b>Okta Identity & Access Management</b>
 
   - [Part 1. Okta Identity Lifecycle Man
@@ -59,3 +58,5 @@
 
 
 [linkedin]:https://www.linkedin.com/in/mike-s-482b991b3
+
+- <b>Microsoft Entra ID & Powershell</b>
