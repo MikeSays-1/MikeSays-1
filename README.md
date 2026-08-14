@@ -20,6 +20,7 @@
 
   - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
   - [Part 2. Okta OIDC Application Integration and Authentication Policy](https://github.com/MikeSays-1/okta-oidc)
+  - [Part 3. Okta Workflows Privileged Access Monitoring and Automated Remediation](https://github.com/MikeSays-1/okta-workflow-automation)
 
 <br />
 
@@ -59,3 +60,4 @@
 [linkedin]:https://www.linkedin.com/in/mike-s-482b991b3
 
 
+Okta Workflows Privileged Access Monitoring and Automated Remediation
