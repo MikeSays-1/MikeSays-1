@@ -6,7 +6,7 @@
 
 <img src="https://adoption.microsoft.com/wp-content/uploads/2025/05/icon-microsoft-entra.png" width="35px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
--<b>Microsoft Entra ID & Powershell</b> 
+-<b>Microsoft Entra ID & Powershell</b>
   - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
   - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Role Mining & RBAC Implementation](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
