@@ -5,11 +5,8 @@
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
 <img src="https://adoption.microsoft.com/wp-content/uploads/2025/05/icon-microsoft-entra.png" width="35px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
-- <b>Okta Identity & Access Management</b>
-
-  - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
-
-rt 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
+-<b>Microsoft Entra ID & Powershell</b>
+  - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
   - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Role Mining & RBAC Implementation](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
   - [Part 4. Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
@@ -59,4 +56,4 @@ rt 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-I
 
 [linkedin]:https://www.linkedin.com/in/mike-s-482b991b3
 
-- <b>Microsoft Entra ID & Powershell</b>
+
