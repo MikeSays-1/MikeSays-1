@@ -4,7 +4,9 @@
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<img src="https://adoption.microsoft.com/wp-content/uploads/2025/05/icon-microsoft-entra.png" width="35px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
+
+
+<img src="https://adoption.microsoft.com/wp-content/uploads/2025/05/icon-microsoft-entra.png" width="35px" height="35px" style="background-color:#1b1b1d; border-radius:10px; padding:5px;" >&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
 -<b>Microsoft Entra ID & Powershell</b>
   - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
