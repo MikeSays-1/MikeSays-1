@@ -17,7 +17,7 @@
 
 <br />  
 
-<img src="https://github.com/MikeSays-1/okta-oidc/raw/main/images/okta-icon.jpeg" width="50px"> 
+<img src="okta-icon.png" width="48px"> 
 - <b>Okta Identity & Access Management</b>
 
   - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
