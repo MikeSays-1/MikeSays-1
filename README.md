@@ -6,7 +6,7 @@
 
 
 
-<img src="entra-skill.png" width="49px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
+<img src="entra-skill.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
 -<b>Microsoft Entra ID & Powershell</b>
   - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
