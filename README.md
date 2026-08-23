@@ -6,7 +6,7 @@ Entra ID & Okta </h1>
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<p align="left"><img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell" /></p>
+<p align="left"><img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"></p>
 - <b>Microsoft Entra ID & Powershell</b>
 
   - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
@@ -69,24 +69,3 @@ Entra ID & Okta </h1>
 &nbsp;&nbsp;Mike S.
   </a>
 </p>
-
-
-<img src="okta-icon.png" width="48px"> 
-- <b>Microsoft Entra ID & Powershell</b>
-
-  - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
-  - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
-  - [Part 3. Role Mining, RBAC Implementation & Least Privilege](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
-  - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
-  - [Part 5. Privileged Access Management - JIT & PIM & Break Glass](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
-
-<br />
-
-<img src="entra-skill-3.png" width="48px">
-- <b>Microsoft Entra ID & Powershell</b>
-
-  - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
-  - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
-  - [Part 3. Role Mining, RBAC Implementation & Least Privilege](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
-  - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
-  - [Part 5. Privileged Access Management - JIT & PIM & Break Glass](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
