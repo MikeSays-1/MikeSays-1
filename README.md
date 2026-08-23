@@ -15,7 +15,7 @@ Entra ID & Okta </h1>
   - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
   - [Part 5. Privileged Access Management - JIT & PIM & Break Glass](https://github.com/MikeSays-1/Entra-ID-JIT-PIM)
 
-<br />  
+ 
 
 <img src="okta-icon.png" width="48px"> 
 - <b>Okta Identity & Access Management</b>
