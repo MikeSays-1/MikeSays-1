@@ -75,7 +75,7 @@ Entra ID & Okta </h1>
 - <b>Microsoft Entra ID & Powershell</b>
 
   - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
-  - [Part 2. Okta OIDC, OAuth 2.0 & Authentication Policies](https://github.com/MikeSays-1/okta-oidc)
+  - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Okta Workflows: Privileged Access Monitoring & Automated Remediation](https://github.com/MikeSays-1/okta-workflow-automation)
   - [Part 4. Okta OIN App Integration & Group-Based Access Managment](https://github.com/MikeSays-1/okta-oin-access)
 
