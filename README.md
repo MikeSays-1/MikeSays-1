@@ -46,8 +46,10 @@
   - [Part 2. osTicket: Configurations](https://github.com/MikeSays-1/osTicket-Config/) 
   - [Part 3. osTicket: Ticket Lifecycle Simulation](https://github.com/MikeSays-1/osTicket-Lifecycle) 
 <br />
+
+<h2>Software Development Projects:</h2>
     
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,supabase,vercel">
 - <b>Next.js (React), Supabase (PostgreSQL, Auth), Tailwind CSS, Vercel</b>
 
 
@@ -63,4 +65,3 @@
 [linkedin]:https://www.linkedin.com/in/mike-s-482b991b3
 
 
-Okta Workflows Privileged Access Monitoring and Automated Remediation
