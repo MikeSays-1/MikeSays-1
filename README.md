@@ -58,16 +58,15 @@
 
 <h2>Connect with me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike%20S.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-s-482b991b3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-s-482b991b3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-s-482b991b3)
-<h2>Connect with me:</h2>
-
+<img
+  alt="LinkedIn"
+  width="28px"
+  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+/>
 <a href="https://www.linkedin.com/in/mike-s-482b991b3">
   <img
-    alt="LinkedIn"
-    width="32px"
-    src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+    alt="Mike S."
+    src="https://img.shields.io/badge/Mike%20S.-0077B5?style=flat&logoColor=white"
   />
 </a>
 
