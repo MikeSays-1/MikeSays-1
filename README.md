@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/mike-s-482b991b3">Mike</a> <br /> IT Professional | Identity & Access Management (IAM) | Entra ID & Okta </h1>
+<h1>$${\color{blue}Mike Saysithi}$$<br /> IT Professional | Identity & Access Management (IAM) | Entra ID & Okta </h1>
 
 
 
