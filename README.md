@@ -72,7 +72,7 @@ Entra ID & Okta </h1>
 
 
 <img src="okta-icon.png" width="48px"> 
-- <b>Okta Identity & Access Management</b>
+- <b>Microsoft Entra ID & Powershell</b>
 
   - [Part 1. Okta Identity Lifecycle Management (JML), SAML 2.0 SSO & Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
   - [Part 2. Okta OIDC, OAuth 2.0 & Authentication Policies](https://github.com/MikeSays-1/okta-oidc)
