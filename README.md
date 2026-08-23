@@ -10,7 +10,7 @@ Entra ID & Okta </h1>
 
 <img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
--<b>Microsoft Entra ID & Powershell</b>  
+- <b>Microsoft Entra ID & Powershell</b>  
 
    - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
    - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
