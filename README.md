@@ -9,21 +9,21 @@
 <img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
 
 -<b>Microsoft Entra ID & Powershell</b>
-  - [Part 1. Identity Lifecycle Management (JML)](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
-  - [Part 2. Access Review & Certification](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
-  - [Part 3. Role Mining & RBAC Implementation](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
-  - [Part 4. Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
-  - [Part 5. Privileged Access Management with JIT & PIM](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
+  - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
+  - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
+  - [Part 3. Role Mining, RBAC Implementation & Least Privilege](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
+  - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
+  - [Part 5. Privileged Access Management - JIT & PIM & Break Glass](https://github.com/MikeSays-1/Entra-ID-JIT-PIM) 
 
 <br />  
 
 <img src="okta-icon.png" width="48px"> 
 - <b>Okta Identity & Access Management</b>
 
-  - [Part 1. Okta Identity Lifecycle Management & SAML Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
-  - [Part 2. Okta OIDC Application Integration and Authentication Policy](https://github.com/MikeSays-1/okta-oidc)
-  - [Part 3. Okta Workflows Privileged Access Monitoring and Automated Remediation](https://github.com/MikeSays-1/okta-workflow-automation)
-  - [Part 4. Okta Integration Network (OIN) and Access Managment](https://github.com/MikeSays-1/okta-oin-access)
+  - [Part 1. Okta Identity Lifecycle Management (JML), SAML 2.0 SSO & Application Access](https://github.com/MikeSays-1/okta-identity-lifecycle-saml)
+  - [Part 2. Okta OIDC, OAuth 2.0 & Authentication Policies](https://github.com/MikeSays-1/okta-oidc)
+  - [Part 3. Okta Workflows: Privileged Access Monitoring & Automated Remediation](https://github.com/MikeSays-1/okta-workflow-automation)
+  - [Part 4. Okta OIN App Integration & Group-Based Access Managment](https://github.com/MikeSays-1/okta-oin-access)
 
 <br />
 
