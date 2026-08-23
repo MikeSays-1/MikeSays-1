@@ -66,7 +66,7 @@
       align="middle" 
       src="https://cdn-icons-png.flaticon.com/128/4008/4008233.png"
     />
-Mike S.
+&nbsp;&nbsp;Mike S.
   </a>
 </p>
 
