@@ -63,8 +63,8 @@
      <img
       alt="LinkedIn"
       height="50"
-      align="middle" 
-      src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
+      align="bottom" 
+      src="https://cdn-icons-png.flaticon.com/128/4008/4008233.png"
     />
 Mike S.
   </a>
