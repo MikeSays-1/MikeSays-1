@@ -1,4 +1,4 @@
-<h1>$${\color{blue}Mike Saysithi}$$<br /> IT Professional | Identity & Access Management (IAM) | Entra ID & Okta </h1>
+<h1>$${\color{blue}\text{Mike Saysithi}}$$<br /> IT Professional | Identity & Access Management (IAM) | Entra ID & Okta </h1>
 
 
 
