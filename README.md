@@ -58,16 +58,19 @@
 
 <h2>Connect with me:</h2>
 
-<img
-  alt="LinkedIn"
-  width="40px"
-  src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
-/>
-<a href="https://www.linkedin.com/in/mike-s-482b991b3">
+<p>
   <img
-    alt="Mike S."
-    src="https://img.shields.io/badge/Mike%20S.-0077B5?style=for-the-badge&logoColor=white"
+    alt="LinkedIn"
+    height="32"
+    src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
   />
-</a>
+  <a href="https://www.linkedin.com/in/mike-s-482b991b3">
+    <img
+      alt="Mike S."
+      height="32"
+      src="https://img.shields.io/badge/Mike%20S.-0077B5?style=for-the-badge&logoColor=white"
+    />
+  </a>
+</p>
 
 
