@@ -6,7 +6,7 @@ Entra ID & Okta </h1>
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"> 
+<img src="entra-skill-3.png" width="48px">
 
 \- <b>Microsoft Entra ID & Powershell</b>
 
