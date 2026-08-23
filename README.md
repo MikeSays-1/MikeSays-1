@@ -59,19 +59,14 @@
 <h2>Connect with me:</h2>
 
 <p>
-  <img
-    alt="LinkedIn"
-    height="50"
-    style="vertical-align: middle;"
-    src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
-  />
   <a href="https://www.linkedin.com/in/mike-s-482b991b3">
-    <img
-      alt="Mike S."
+     <img
+      alt="LinkedIn"
       height="50"
       style="vertical-align: middle;"
-      src="https://img.shields.io/badge/Mike%20S.-0077B5?style=for-the-badge&logoColor=white"
+      src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
     />
+Mike S.
   </a>
 </p>
 
