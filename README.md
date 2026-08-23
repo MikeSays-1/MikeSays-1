@@ -58,8 +58,6 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/mike-s-482b991b3">
-  <img align="left" alt="Mike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mike%20S.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-s-482b991b3)
 
 
