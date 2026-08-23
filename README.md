@@ -60,7 +60,7 @@
 
 <img
   alt="LinkedIn"
-  width="28px"
+  width="32px"
   src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
 />
 <a href="https://www.linkedin.com/in/mike-s-482b991b3">
