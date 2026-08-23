@@ -6,7 +6,7 @@ Entra ID & Okta </h1>
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<img src="entra-skill-3.png" width="48px">
+<p align="left"><img src="entra-skill-3.png" width="48px"></p>
 - <b>Microsoft Entra ID & Powershell</b>
 
   - [Part 1. Identity Lifecycle Management (JML) & User Provisioning](https://github.com/MikeSays-1/Entra-ID-JML-Lab)
