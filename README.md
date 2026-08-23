@@ -78,5 +78,6 @@ Entra ID & Okta </h1>
   - [Part 2. Access Review, Certification & Identity Governance](https://github.com/MikeSays-1/Entra-ID-Access-Review-Lab)
   - [Part 3. Role Mining, RBAC Implementation & Least Privilege](https://github.com/MikeSays-1/Entra-ID-Role-Mining-RBAC-Lab)
   - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)
+  - [Part 4. Micosoft Graph & Powershell: Automated Access Provisioning & Remediation](https://github.com/MikeSays-1/Entra-ID-Access-Automation)  
 
 <br />
