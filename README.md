@@ -60,13 +60,13 @@
 
 <img
   alt="LinkedIn"
-  width="32px"
+  width="40px"
   src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
 />
 <a href="https://www.linkedin.com/in/mike-s-482b991b3">
   <img
     alt="Mike S."
-    src="https://img.shields.io/badge/Mike%20S.-0077B5?style=flat&logoColor=white"
+    src="https://img.shields.io/badge/Mike%20S.-0077B5?style=for-the-badge&logoColor=white"
   />
 </a>
 
