@@ -10,9 +10,9 @@ Entra ID & Okta </h1>
 - <b>CyberArk Privileged Access Management</b>
 
   - [Part 1. CyberArk PAM – Privileged Account Onboarding & Credential Management](https://github.com/MikeSays-1/CyberArk-PAM-Account-Onboarding)
-  - [Part 2. Okta OIDC, OAuth 2.0 & Authentication Policies](https://github.com/MikeSays-1/okta-oidc)
-  - [Part 3. Okta Workflows: Privileged Access Monitoring & Automated Remediation](https://github.com/MikeSays-1/okta-workflow-automation)
-  - [Part 4. Okta OIN App Integration & Group-Based Access Managment](https://github.com/MikeSays-1/okta-oin-access)
+  - [Part 2. CyberArk PAM – Privileged Access Control & Session Auditing](https://github.com/MikeSays-1/cyberark-privileged-access-session-audit)
+  - [Part 3. ](https://github.com/MikeSays-1/okta-workflow-automation)
+  - [Part 4. ](https://github.com/MikeSays-1/okta-oin-access)
 
 <br />
 
