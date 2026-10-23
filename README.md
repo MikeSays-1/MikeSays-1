@@ -6,7 +6,7 @@ Entra ID & Okta </h1>
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<img src="cyberarklogo.png" width="48px"> 
+<img src="cyberarkicon.png" width="48px"> 
 - <b>CyberArk Privileged Access Management</b>
 
   - [Part 1. CyberArk PAM – Privileged Account Onboarding & Credential Management](https://github.com/MikeSays-1/CyberArk-PAM-Account-Onboarding)
