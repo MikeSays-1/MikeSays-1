@@ -1,7 +1,13 @@
 <h1>$${\color{blue}\texttt{Mike&nbsp;Saysithi}}$$<br /> 
 Identity & Access Management (IAM) | Entra ID • Okta • CyberArk PAM • PowerShell </h1>
 
+About This Portfolio
 
+This portfolio documents my work as an Identity & Access Management Engineer within Northwind Medical Systems, a simulated enterprise environment created to model real-world IAM operations.
+
+The environment is designed around common identity challenges such as user lifecycle management, access governance, authentication, privileged access, automation, and least-privilege enforcement. Projects include Microsoft Entra ID, Active Directory, Okta, CyberArk PAM, PowerShell, and Microsoft Graph.
+
+Throughout the portfolio, I approach each project from an IAM engineering perspective: configuring identity services, troubleshooting access issues, implementing security controls, automating administrative tasks, and documenting the results.
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
