@@ -6,7 +6,7 @@ Identity & Access Management (IAM) | Entra ID • Okta • CyberArk PAM • Powe
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
 <img src="cyberarkicon.png" width="48px"> 
-- <b>CyberArk Privileged Access Management</b>
+- <b>CyberArk PAM</b>
 
   - [Part 1. CyberArk PAM – Privileged Account Onboarding & Credential Management](https://github.com/MikeSays-1/CyberArk-PAM-Account-Onboarding)
   - [Part 2. CyberArk PAM – Privileged Access Control & Session Auditing](https://github.com/MikeSays-1/cyberark-privileged-access-session-audit)
