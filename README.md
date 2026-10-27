@@ -73,18 +73,3 @@ Additional IT projects below reflect earlier hands-on work completed during my h
 
 
   - [HostDesk - Centralized Staff and Restaruant Managment App](https://github.com/MikeSays-1/HostDesk-App)
-
-
-<h2>Connect with me:</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/mike-s-482b991b3">
-     <img
-      alt="LinkedIn"
-      height="50"
-      align="middle" 
-      src="https://cdn-icons-png.flaticon.com/128/4008/4008233.png"
-    />
-&nbsp;&nbsp;Mike S.
-  </a>
-</p>
