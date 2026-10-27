@@ -5,14 +5,6 @@ Identity & Access Management (IAM) | Entra ID • Okta • CyberArk PAM • Powe
 
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
-<img src="cyberarkicon.png" width="48px"> 
-- <b>CyberArk PAM</b>
-
-  - [Part 1. CyberArk PAM – Privileged Account Onboarding & Credential Management](https://github.com/MikeSays-1/CyberArk-PAM-Account-Onboarding)
-  - [Part 2. CyberArk PAM – Privileged Access Control & Session Auditing](https://github.com/MikeSays-1/cyberark-privileged-access-session-audit)
-  - [Part 3. CyberArk PAM – Privileged Account Recovery & Lifecycle Management](https://github.com/MikeSays-1/cyberark-recovery-and-lifecycle)
-
-<br />
 
 
 <p align="left"><img src="entra-skill-3.png" width="48px">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=powershell"></p>
@@ -35,6 +27,16 @@ Identity & Access Management (IAM) | Entra ID • Okta • CyberArk PAM • Powe
   - [Part 4. Okta OIN App Integration & Group-Based Access Managment](https://github.com/MikeSays-1/okta-oin-access)
 
 <br />
+
+<img src="cyberarkicon.png" width="48px"> 
+- <b>CyberArk PAM</b>
+
+  - [Part 1. CyberArk PAM – Privileged Account Onboarding & Credential Management](https://github.com/MikeSays-1/CyberArk-PAM-Account-Onboarding)
+  - [Part 2. CyberArk PAM – Privileged Access Control & Session Auditing](https://github.com/MikeSays-1/cyberark-privileged-access-session-audit)
+  - [Part 3. CyberArk PAM – Privileged Account Recovery & Lifecycle Management](https://github.com/MikeSays-1/cyberark-recovery-and-lifecycle)
+
+<br />
+
 
 <h2>Information Technology Projects:</h2>
 
