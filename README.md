@@ -9,6 +9,8 @@ The environment is designed around common identity challenges such as user lifec
 
 Throughout the portfolio, I approach each project from an IAM engineering perspective: configuring identity services, troubleshooting access issues, implementing security controls, automating administrative tasks, and documenting the results.
 
+Additional IT projects below reflect earlier hands-on work completed during my help desk and infrastructure training.
+
 <h2>Identity & Access Management (IAM) Projects:</h2>
 
 
