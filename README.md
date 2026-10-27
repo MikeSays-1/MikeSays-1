@@ -1,6 +1,5 @@
 <h1>$${\color{blue}\texttt{Mike&nbsp;Saysithi}}$$<br /> 
-IT Professional | Identity & Access Management (IAM)<br />
-CyberArk PAM, Okta & Entra ID </h1>
+Identity & Access Management (IAM) | Entra ID • Okta • CyberArk PAM • PowerShell </h1>
 
 
 
